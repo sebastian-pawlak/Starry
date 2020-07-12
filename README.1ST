@@ -1,0 +1,19 @@
+   title: Starry
+ version: 1.0
+released: 2020-07-11
+  author: Sebastian Pawlak aka tr1x
+   group: Agenda
+   party: Lost Party 2020
+category: Atari XL/XE 256 B Intro Compo
+hardware: original Atari XL/XE 64KB PAL
+
+Successfully tested with Altirra/x64 2.60: XE PAL/NTSC / 64K / BASIC.
+
+Successfully tested with original Atari 65XE ECI + Lotharek's Sio2sd Ver. 1.3.
+
+BASIC has to be turned on.
+Turn the computer on while you are not holding down the OPTION key.
+
+Run it with clean memory.
+
+May not work with some DOSes or file managers.
